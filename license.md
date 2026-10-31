@@ -216,4 +216,4 @@ running the loader without administrator rights, or from another overlay
 | **Price** | $0 |
 | **Version** | 2026 build |
 
-*starfield-helper-pack · Updated 2026-10-30 · Shared under the MIT License*
+*starfield-helper-pack · Updated 2026-10-31 · Shared under the MIT License*
